@@ -56,6 +56,10 @@
         height: 40vh;
     }
 
+    #experience-details {
+        padding: 0;
+    }
+
     #hero {
         height: 83vh;
         margin-bottom: 0;
